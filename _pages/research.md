@@ -1,10 +1,16 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /research/
 author_profile: true
 ---
-## Job Market Paper
+<style>
+  h2 {
+    margin-top: -0.5em; /* Set margin-top to 0 to reduce the vertical space */
+  }
+</style>
+
+<h2>Job Market Paper</h2>
 
 **Supply Network Fragility, Inventory Investment, and Corporate Liquidity** <br />
 <br /> 
