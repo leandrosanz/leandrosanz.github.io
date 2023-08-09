@@ -16,7 +16,7 @@ author_profile: true
 <br /> 
 <span style="font-size:0.8em;">**Abstract:** Using new data on more than 11,000 foreign suppliers of U.S. manufacturing companies from 2007 to 2021, I show that supply network fragility has important implications for corporate policies. Firms with fragile supply networks tend to have less cash, higher book leverage, and hold more input inventories than otherwise similar firms. Moreover, the evolution of corporate policies around supply network shocks and exogenous variation in supply network fragility due to technological breakthroughs that increase reliance on advanced electronics suggest a causal interpretation of the results. I propose that corporate liquidity is less advantageous for firms with fragile supply networks because such firms are less likely to have access to spot markets for specialized inputs after disruptions. These findings suggest that supply network risk has important firm-level implications beyond the direct transmission of shocks from suppliers to customer firms.</span>
 <br><br>
-<span style="font-size:0.8em;">**Presentations:** AFA (scheduled); FMA Doctoral Consortium (scheduled); Nova Finance PhD Final Countdown (scheduled); EFA Doctoral Tutorial (scheduled); 9th USC Marshall PhD Conference in Finance</span>
+<span style="font-size:0.8em;">**Presentations:** AFA (scheduled); FMA Doctoral Student Consortium (scheduled); Nova Finance PhD Final Countdown (scheduled); EFA Doctoral Tutorial (scheduled); 9th USC Marshall PhD Conference in Finance</span>
 
 ## Working Papers
 
