@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Finance Ph.D. Candidate at the Fisher College of Business, The Ohio State University. My job market paper aims to understand the impact of supply network fragility on firms' corporate policies.
+I am a fifth-year Finance Ph.D. Candidate at the Fisher College of Business, The Ohio State University. My job market paper aims to understand the impact of supply network fragility on firms' corporate policies.
 
 My main research interests are corporate finance, financial intermediation, and international finance. 
 
