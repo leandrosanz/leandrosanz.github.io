@@ -11,7 +11,7 @@ author_profile: true
 </style>
 
 <h2>Job Market Paper</h2>
-<a href="https://leandrosanz.github.io/files/JMP_Supply_Network_Fragility.pdf" download style="text-decoration: none; color: rgb(2, 62, 138);">Supply Network Fragility, Inventory Investment, and Corporate Liquidity</a><br><br>
+<a href="https://leandrosanz.github.io/files/JMP_Supply_Network_Fragility.pdf" style="text-decoration: none; color: rgb(2, 62, 138);">Supply Network Fragility, Inventory Investment, and Corporate Liquidity</a><br><br>
 <span style="font-size:0.8em;">**Abstract:** This study uses a novel dataset of over 11,000 foreign suppliers to U.S. manufacturers to investigate the impact of supply network fragility on corporate policies. The scarcity of suppliers offering specialized inputs emerges as a key driver of fragility. Both theoretical and empirical evidence indicate that firms with fragile supply networks maintain less cash, higher leverage, and more input inventories. Moreover, plausibly exogenous variation in fragility stemming from technology adoption and disruptions supports a causal interpretation of the results. My findings suggest that firms with fragile supply networks find liquidity less beneficial because specialized inputs lack a spot market post-disruptions.</span>
 <br><br>
 <span style="font-size:0.8em;">**Presentations:** AFA (scheduled); 36th AFBC, PhD Forum (scheduled); the 2023 Rising Scholars Conference held at MIT; FMA Doctoral Student Consortium; Nova Finance PhD Final Countdown; EFA Doctoral Tutorial; 9th USC Marshall PhD Conference in Finance</span>
