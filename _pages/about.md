@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Finance Ph.D. Candidate at the Fisher College of Business, The Ohio State University.
-
-**I am on the 2023-2024 academic job market.**
+I am a fifth-year Finance Ph.D. Candidate at the Fisher College of Business, The Ohio State University. I will join the University of Notre Dame as an Assistant Professor of Finance in the summer of 2024.
 
 My overarching research interest is corporate finance, focusing on understanding the risks companies face due to the nature of their products and production processes. My job market paper examines the impact of supply network fragility on corporate policies, reflecting this interest. 
 
