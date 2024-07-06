@@ -14,5 +14,6 @@ My research interests include corporate finance, financial intermediation, suppl
 
 I hold a B.A. in Economics and a B.S. in Mathematics from the University of Maryland, an M.A. in Economics from the University of Texas at Austin, and a Ph.D. in Finance from The Ohio State University.
 
-**Email:** <a href="mailto:sanz.8@osu.edu" style="text-decoration: none; color: rgb(2, 62, 138);">sanz.8@osu.edu</a>
+
+**Email:** <a href="mailto:lsanz@nd.edu" style="text-decoration: none; color: rgb(2, 62, 138);">lsanz@nd.edu</a>
 
