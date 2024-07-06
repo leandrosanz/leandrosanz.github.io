@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Finance Ph.D. Candidate at the Fisher College of Business, The Ohio State University. I will join the University of Notre Dame as an Assistant Professor of Finance in the summer of 2024.
+I am an Assistant Professor of Finance at the University of Notre Dame, Mendoza College of Business. 
 
-My overarching research interest is corporate finance, focusing on understanding the risks companies face due to the nature of their products and production processes. My job market paper examines the impact of supply network fragility on corporate policies, reflecting this interest. 
+My research interests include corporate finance, financial intermediation, supply chains, and intangible assets.
 
-Before my doctoral studies at The Ohio State University, I was a Senior Quantitative Analyst in the Quantitative Supervision & Research group at the Federal Reserve Bank of Richmond. My responsibilities in this role included reviewing banks’ models for counterparty credit risk exposures and developing in-house models for wholesale credit and operational risk. I hold a B.A. in Economics and a B.S. in Mathematics from the University of Maryland, and an M.A. in Economics from the University of Texas at Austin.
+I hold a B.A. in Economics and a B.S. in Mathematics from the University of Maryland, an M.A. in Economics from the University of Texas at Austin, and a Ph.D. in Finance from The Ohio State University.
 
 **Email:** <a href="mailto:sanz.8@osu.edu" style="text-decoration: none; color: rgb(2, 62, 138);">sanz.8@osu.edu</a>
 
