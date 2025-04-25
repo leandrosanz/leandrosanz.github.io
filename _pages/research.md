@@ -12,7 +12,7 @@ author_profile: true
 
 ## Working Papers
 
-1. <a href="https://leandrosanz.github.io/files/JMP_Supply_Network_Fragility.pdf" style="text-decoration: none; color: rgb(2, 62, 138);">Supply Network Fragility, Inventory Investment, and Corporate Liquidity</a><a href="http://ssrn.com/abstract=4635488" style="text-decoration: none; color: rgb(2, 62, 138);">SSRN Link</a><br><br>
+1. <a href="https://leandrosanz.github.io/files/JMP_Supply_Network_Fragility.pdf" style="text-decoration: none; color: rgb(2, 62, 138);">Supply Network Fragility, Inventory Investment, and Corporate Liquidity</a><a href="http://ssrn.com/abstract=4635488" style="text-decoration: none; color: rgb(2, 62, 138);"> [SSRN Link]</a><br><br>
 <span style="font-size:0.8em;">**Abstract:** This study uses a novel dataset of over 11,000 foreign suppliers to U.S. manufacturers to investigate the impact of supply network fragility on corporate policies. The scarcity of suppliers offering specialized inputs emerges as a key driver of fragility. Both theoretical and empirical evidence indicate that firms with fragile supply networks maintain more input inventories, less cash, and higher leverage. Moreover, plausibly exogenous variation in fragility from technology adoption and disruptions supports a causal interpretation of the results. My findings indicate that because specialized inputs lack a spot market post-disruptions, firms with fragile supply networks favor operational over financial hedging.</span>
 
 2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899183" style="text-decoration: none; color: rgb(2, 62, 138);">Why do Startups Become Unicorns Instead of Going Public?</a> <br />
