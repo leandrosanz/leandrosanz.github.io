@@ -1,2 +1,12 @@
-_site/
+# macOS
+.DS_Store
+**/.DS_Store
 
+# Source / working folders not needed in production (root-level only)
+/Papers/
+/CV/
+
+# Editor / OS junk
+*.swp
+*.swo
+Thumbs.db
