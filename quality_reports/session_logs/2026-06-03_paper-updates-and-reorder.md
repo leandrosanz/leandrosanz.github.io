@@ -69,12 +69,15 @@ All changes below are committed and pushed; verified live.
 - Paper PDFs/sources dropped by user into `~/Dropbox/Website 2.0/Papers/`
   and `~/Downloads/`; copied into `assets/files/` with clean names
 
+**CV PDF refreshed**
+- User compiled the CV in Overleaf and saved to `~/Downloads/Leandro_Sanz_CV.pdf`
+- Copied into `assets/files/Leandro_Sanz_CV.pdf`, committed, pushed
+- Verified live at `https://leandrosanz.com/assets/files/Leandro_Sanz_CV.pdf`
+  (89,749 bytes, content-type application/pdf)
+- Hosted CV now reflects the new working papers and newest-first order
+
 ## Pending user actions
-1. **Recompile CV in Overleaf** and drop the new PDF into
-   `assets/files/Leandro_Sanz_CV.pdf`, then I commit + push the website
-   (CV source is updated and pushed to Overleaf, but the hosted PDF is
-   still the previously-compiled version)
-2. Carryover from 2026-05-03: enable "Enforce HTTPS" in GitHub Pages
+1. Carryover from 2026-05-03: enable "Enforce HTTPS" in GitHub Pages
    settings; verify domain in Google Search Console; update external
    profile links; optionally flip Cloudflare proxy to orange
 
